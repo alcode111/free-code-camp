@@ -1,1 +1,1 @@
-# free-code-camp
+This project is based on a freecodecamp course. We will attempt to build a photo gallery using Flexbox to try and learn about its features.
